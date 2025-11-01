@@ -1,0 +1,24 @@
+# SpecStory project identity file
+.specstory/.project.json
+# SpecStory explanation file
+.specstory/.what-is-this.md
+
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+# OS
+.DS_Store
+Thumbs.db
+
+## メディアファイル
+*.png
+*.pdf
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.m4a
+*.m4v
+*.m4b
+# SpecStory derived-cursor-rules.mdc backup files
+.specstory/ai_rules_backups/*
