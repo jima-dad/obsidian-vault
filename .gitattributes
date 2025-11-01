@@ -1,0 +1,4 @@
+# Normalize text files and ensure Markdown is treated as UTF-8
+* text=auto
+*.md text
+*.md working-tree-encoding=UTF-8
